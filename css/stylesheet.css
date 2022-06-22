@@ -1,9 +1,17 @@
+form {
+    text-align: center;
+}
 
+input {
+    font-size: 28px;
+    max-width: 300px;
+    width: 100%;
+}
 
 
 table {
-    margin: 0 auto;
+    margin: 20px auto 0;
     padding: 10px;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
 }
